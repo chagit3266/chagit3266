@@ -10,14 +10,14 @@ Software developer and verification engineer with strong analytical skills, a so
 
 ---
 
-### 👩‍💻 About Me
-- Full-Stack Developer with experience in backend, frontend, and RESTful APIs  
-- Verification Engineer working with **SystemVerilog & UVM**  
-- Strong programming background in **C, C++, Python, C# and JavaScript**  
-- Experienced in debugging, log analysis, and waveform inspection  
-- Comfortable working in **Linux environments** with version control and CI-style workflows  
-- Detail-oriented, methodical, and focused on correctness and system behavior
-
+### 🔍 About Me  
+🧪 Verification engineer focused on simulation-driven chip verification using UVM  
+🧠 Solid foundations in algorithms, operating systems, system architecture, and digital logic  
+⚙️ Experience developing system-level and real-time software, including C++ projects with OpenCV and concurrent design  
+🌐 End-to-end Full-Stack development, connecting backend logic with clean and intuitive user interfaces  
+🚀 Completed Qualcomm Chip Verification Bootcamp (KamaTech)  
+💡 Analytical, detail-oriented, fast learner with strong problem-solving skills  
+💼 Open to roles in Software Engineering and Verification
 ---
 
 ### 🛠️ Languages & Tools
@@ -42,28 +42,57 @@ Software developer and verification engineer with strong analytical skills, a so
 ---
 
 ### 📌 Selected Projects
-- **YAPP Router – Verification Project (UVM)**  
-  Designed and implemented a complete UVM verification environment including agents, drivers, monitors, scoreboards, and functional coverage.  
-  Focused on protocol validation, sequence coordination, and bug detection using waveform analysis.
 
-- **Full-Stack Web Applications**  
-  Built end-to-end applications including frontend UI, backend logic, and database integration.  
-  Worked with REST APIs, client-server communication, and data handling.
+#### 🔹 YAPP Router – UVM Verification Project
+End-to-end verification of a packet-based router using simulation-driven methodologies.
 
-- **Algorithmic & System-Level Projects (C / C++)**  
-  Implemented data structures, algorithms, and system-oriented code with emphasis on correctness and efficiency.
+**Highlights:**
+- Built a complete **UVM verification environment** including agents, drivers, monitors, and sequencers  
+- Implemented **scoreboards** for packet integrity and end-to-end data checking  
+- Designed **functional and protocol coverage**  
+- Developed sequences for normal operation, stress, and corner cases  
+- Debugged complex issues using waveforms and simulation logs  
+
+---
+
+#### 🔹 GoPath – Shortest Path Full-Stack Application
+🔗 https://github.com/chagit3266/GoPath  
+
+A full-stack application for computing the **shortest path** between a source and destination.
+
+**Highlights:**
+- Implemented core **pathfinding logic and algorithms**  
+- Built backend logic and exposed APIs for client interaction  
+- Integrated frontend UI for user input and result visualization  
+- Emphasized correctness, edge-case handling, and clean architecture  
+
+---
+
+#### 🔹 Physics-Based Chess Engine
+A system-level chess engine combining **game logic, physics-inspired movement, and real-time visualization**.
+
+**Highlights:**
+- Designed object-oriented architecture for game entities and state management  
+- Implemented movement rules, collisions, and state transitions  
+- Integrated graphical visualization using OpenCV  
+- Focused on performance, modular design, and correctness  
+
+---
+
+#### 🔹 Phishing Email Detection – Machine Learning Project
+🔗 https://github.com/chagit3266/phishing-email-detector-ml  
+
+A data-driven project for identifying phishing emails based on textual analysis.
+
+**Highlights:**
+- Built preprocessing and feature extraction pipelines  
+- Trained and evaluated classification models  
+- Focused on accuracy, false positives, and result analysis  
 
 ---
 
 ### 📫 Contact
 📧 **chagit3266.tech@gmail.com**
-
+🔗 **LinkedIn:** https://www.linkedin.com/in/chagit-levi
+📞 **Phone:** +972-53-412-5308
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chagit3266&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chagit3266" />
-</p>
