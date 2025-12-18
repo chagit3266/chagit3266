@@ -10,7 +10,7 @@ Software developer and verification engineer with strong analytical skills, a so
 
 ---
 
-### 🔍 About Me  
+## 🔍 About Me  
 🧪 Verification engineer focused on simulation-driven chip verification using UVM  
 🧠 Solid foundations in algorithms, operating systems, system architecture, and digital logic  
 ⚙️ Experience developing system-level and real-time software, including C++ projects with OpenCV and concurrent design  
@@ -55,44 +55,31 @@ End-to-end verification of a packet-based router using simulation-driven methodo
 
 ---
 
-#### 🔹 GoPath – Shortest Path Full-Stack Application
+### 🔹 YAPP Router — UVM Verification
+- Built a full **UVM verification environment** (agents, drivers, monitors, sequencers)
+- Implemented **scoreboards** and functional/protocol coverage
+- Developed sequences for normal, stress, and corner scenarios
+- Debugged failures using waveforms and simulation logs
+
+### 🔹 GoPath — Shortest Path (Full-Stack)
 🔗 https://github.com/chagit3266/GoPath  
+- Implemented core **pathfinding algorithms**
+- Built backend APIs and frontend visualization
+- Focused on correctness, edge cases, and clean architecture
 
-A full-stack application for computing the **shortest path** between a source and destination.
+### 🔹 Physics-Based Chess Engine
+- Designed system-level **C++ architecture** for game logic and state management
+- Implemented movement, collisions, and transitions
+- Integrated real-time visualization using OpenCV
 
-**Highlights:**
-- Implemented core **pathfinding logic and algorithms**  
-- Built backend logic and exposed APIs for client interaction  
-- Integrated frontend UI for user input and result visualization  
-- Emphasized correctness, edge-case handling, and clean architecture  
-
----
-
-#### 🔹 Physics-Based Chess Engine
-A system-level chess engine combining **game logic, physics-inspired movement, and real-time visualization**.
-
-**Highlights:**
-- Designed object-oriented architecture for game entities and state management  
-- Implemented movement rules, collisions, and state transitions  
-- Integrated graphical visualization using OpenCV  
-- Focused on performance, modular design, and correctness  
-
----
-
-#### 🔹 Phishing Email Detection – Machine Learning Project
+### 🔹 Phishing Email Detection (ML)
 🔗 https://github.com/chagit3266/phishing-email-detector-ml  
+- Built preprocessing and feature extraction pipelines
+- Trained and evaluated classification models
+- Analyzed accuracy and false positives
 
-A data-driven project for identifying phishing emails based on textual analysis.
-
-**Highlights:**
-- Built preprocessing and feature extraction pipelines  
-- Trained and evaluated classification models  
-- Focused on accuracy, false positives, and result analysis  
-
----
-
-### 📫 Contact
-📧 **chagit3266.tech@gmail.com**
-🔗 **LinkedIn:** https://www.linkedin.com/in/chagit-levi
+## 📫 Contact
+📧 **chagit3266.tech@gmail.com**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/chagit-levi  
 📞 **Phone:** +972-53-412-5308
 ---
