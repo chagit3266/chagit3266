@@ -18,6 +18,7 @@ Software developer and verification engineer with strong analytical skills, a so
 🚀 Completed Qualcomm Chip Verification Bootcamp (KamaTech)  
 💡 Analytical, detail-oriented, fast learner with strong problem-solving skills  
 💼 Open to roles in Software Engineering and Verification
+
 ---
 
 ### 🛠️ Languages & Tools
@@ -43,36 +44,24 @@ Software developer and verification engineer with strong analytical skills, a so
 
 ### 📌 Selected Projects
 
-#### 🔹 YAPP Router – UVM Verification Project
-End-to-end verification of a packet-based router using simulation-driven methodologies.
-
-**Highlights:**
-- Built a complete **UVM verification environment** including agents, drivers, monitors, and sequencers  
-- Implemented **scoreboards** for packet integrity and end-to-end data checking  
-- Designed **functional and protocol coverage**  
-- Developed sequences for normal operation, stress, and corner cases  
-- Debugged complex issues using waveforms and simulation logs  
-
----
-
-### 🔹 YAPP Router — UVM Verification
+#### 🔹 YAPP Router — UVM Verification
 - Built a full **UVM verification environment** (agents, drivers, monitors, sequencers)
 - Implemented **scoreboards** and functional/protocol coverage
 - Developed sequences for normal, stress, and corner scenarios
 - Debugged failures using waveforms and simulation logs
 
-### 🔹 GoPath — Shortest Path (Full-Stack)
+#### 🔹 GoPath — Shortest Path (Full-Stack)
 🔗 https://github.com/chagit3266/GoPath  
 - Implemented core **pathfinding algorithms**
 - Built backend APIs and frontend visualization
 - Focused on correctness, edge cases, and clean architecture
 
-### 🔹 Physics-Based Chess Engine
+#### 🔹 Physics-Based Chess Engine
 - Designed system-level **C++ architecture** for game logic and state management
 - Implemented movement, collisions, and transitions
 - Integrated real-time visualization using OpenCV
 
-### 🔹 Phishing Email Detection (ML)
+#### 🔹 Phishing Email Detection (ML)
 🔗 https://github.com/chagit3266/phishing-email-detector-ml  
 - Built preprocessing and feature extraction pipelines
 - Trained and evaluated classification models
@@ -82,4 +71,5 @@ End-to-end verification of a packet-based router using simulation-driven methodo
 📧 **chagit3266.tech@gmail.com**  
 🔗 **LinkedIn:** https://www.linkedin.com/in/chagit-levi  
 📞 **Phone:** +972-53-412-5308
+
 ---
